@@ -1,4 +1,4 @@
-# 2024 Course : Neural Data Science with Python 
+# 2025 Course : Neural Data Science with Python 
 
 ![Logo](miscFiles/course-logo.png "Course Logo")
 
