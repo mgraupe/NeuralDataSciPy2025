@@ -9,7 +9,7 @@ Your work on the **End-of-Course Project** will make up 50 % of your final cours
 
 One or teams of maximal two students can choose a project from the list below. 
 The evaluation will be based on an annotated jupyter-notebook containing your project work and a presentation/discussion of the jupyter-notebook with the jury. The **project submission deadline is January 5th, 2026 (23h59)**. And the **project presentations** 
-will take place on **Thursday January 8th, 2026 from 9h00 through 15h00**. Each presentation is limited to 10 min followed by 5 min of questions. 
+will take place on **Thursday January 8th, 2026 from 9h00 through 15h00 in room Franklin (2nd floor, 45 rues des Saints-Pères)**. Each presentation is limited to 10 min followed by 5 min of questions. 
 
 The evaluation jury is composed of Heike Stein, Tadeusz Kononowicz, Marcel Stimberg, and Michael Graupner. 
 
